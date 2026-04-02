@@ -1,4 +1,8 @@
 that is so true
 
 yass i return this is mumma page
+<<<<<<< HEAD
 im here with concept im forgetting
+=======
+ANd im also doing the same
+>>>>>>> 6d13cb506f874658ed307e0a7c094a3767af5560
